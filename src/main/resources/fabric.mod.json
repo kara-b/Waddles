@@ -4,9 +4,8 @@
   "version": "${version}",
   "name": "Waddles",
   "description": "Waddles adds cute Adélie penguins that waddle",
-  "authors": [],
+  "authors": ["HeyItsMeNobody", "GirafiStudios"],
   "contact": {
-    "website": "https://dyonb.nl/",
     "repo": "https://github.com/HeyItsMeNobody/Waddles"
   },
   "license": "GPL-3.0",
