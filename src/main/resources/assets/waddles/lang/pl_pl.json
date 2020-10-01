@@ -9,7 +9,11 @@
   "waddles:subtitles.adelie.death": "Pingwin umiera",
   "waddles:subtitles.adelie.hurt": "Pingwin cierpi",
 
-  "_comment": "Tooltip",
-  "waddles:config.category.general.tooltip": "Ogólna konfiguracja ustawien dla Waddles",
-  "waddles:config.category.spawnchances.tooltip": "Konfigurowalne szanse odradzania się pingwinów"
+  "_comment": "Config",
+  "text.autoconfig.waddles.title": "Waddles",
+  "text.autoconfig.waddles.option.drop_fish": "Drop fish when killed",
+  "text.autoconfig.waddles.option.drop_exp": "Drop experience when killed",
+  "text.autoconfig.waddles.option.adelie_spawn_weight": "Spawn weight",
+  "text.autoconfig.waddles.option.adelie_min_group_size": "Minimum group size",
+  "text.autoconfig.waddles.option.adelie_max_group_size": "Maximum group size"
 }

@@ -9,7 +9,11 @@
   "waddles:subtitles.adelie.death": "Puguim Adélie Morrendo",
   "waddles:subtitles.adelie.hurt": "Pinguim Adélie se Machucando",
 
-  "_comment": "Tooltip",
-  "waddles:config.category.general.tooltip": "Opções gerais de configurações do mod Waddles",
-  "waddles:config.category.spawnchances.tooltip": "Chance de Spawn de Pinguins Configurável"
+  "_comment": "Config",
+  "text.autoconfig.waddles.title": "Waddles",
+  "text.autoconfig.waddles.option.drop_fish": "Drop fish when killed",
+  "text.autoconfig.waddles.option.drop_exp": "Drop experience when killed",
+  "text.autoconfig.waddles.option.adelie_spawn_weight": "Spawn weight",
+  "text.autoconfig.waddles.option.adelie_min_group_size": "Minimum group size",
+  "text.autoconfig.waddles.option.adelie_max_group_size": "Maximum group size"
 }

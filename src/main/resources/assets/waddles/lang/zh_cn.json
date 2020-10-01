@@ -9,7 +9,11 @@
   "waddles:subtitles.adelie.death": "阿德利企鹅：一命鸣呼",
   "waddles:subtitles.adelie.hurt": "阿德利企鹅：受到伤害",
 
-  "_comment": "Tooltip",
-  "waddles:config.category.general.tooltip": "基础设置",
-  "waddles:config.category.spawnchances.tooltip": "生成概率设置"
+  "_comment": "Config",
+  "text.autoconfig.waddles.title": "Waddles",
+  "text.autoconfig.waddles.option.drop_fish": "Drop fish when killed",
+  "text.autoconfig.waddles.option.drop_exp": "Drop experience when killed",
+  "text.autoconfig.waddles.option.adelie_spawn_weight": "Spawn weight",
+  "text.autoconfig.waddles.option.adelie_min_group_size": "Minimum group size",
+  "text.autoconfig.waddles.option.adelie_max_group_size": "Maximum group size"
 }
