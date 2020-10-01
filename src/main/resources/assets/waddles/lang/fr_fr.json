@@ -1,0 +1,15 @@
+{
+  "_comment": "Entity",
+  "entity.waddles.adelie_penguin": "Manchot Adélie",
+  "item.waddles.adelie_penguin_spawn_egg": "Œuf d'apparition de manchot Adélie",
+
+  "_comment": "Subtitles",
+  "waddles:subtitles.adelie.ambient": "Cris de manchot Adélie",
+  "waddles:subtitles.adelie.baby.ambient": "Couinement de manchot Adélie",
+  "waddles:subtitles.adelie.death": "Manchot Adélie qui meurt",
+  "waddles:subtitles.adelie.hurt": "Manchot Adélie blessé",
+
+  "_comment": "Tooltip",
+  "waddles:config.category.general.tooltip": "Options de configuration générale pour Waddles",
+  "waddles:config.category.spawnchances.tooltip": "Chances d'apparition configurables pour les manchots"
+}
