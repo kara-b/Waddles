@@ -1,0 +1,19 @@
+{
+  "_comment": "Entity",
+  "entity.waddles.adelie_penguin": "Manchot Adélie",
+  "item.waddles.adelie_penguin_spawn_egg": "Œuf d'apparition de manchot Adélie",
+
+  "_comment": "Subtitles",
+  "waddles:subtitles.adelie.ambient": "Cris de manchot Adélie",
+  "waddles:subtitles.adelie.baby.ambient": "Couinement de manchot Adélie",
+  "waddles:subtitles.adelie.death": "Manchot Adélie qui meurt",
+  "waddles:subtitles.adelie.hurt": "Manchot Adélie blessé",
+  
+  "_comment": "Config",
+  "text.autoconfig.waddles.title": "Waddles",
+  "text.autoconfig.waddles.option.drop_fish": "Lâcher du poisson une fois tué",
+  "text.autoconfig.waddles.option.drop_exp": "Lâcher de l'expérience une fois tué",
+  "text.autoconfig.waddles.option.adelie_spawn_weight": "Chance d'apparition",
+  "text.autoconfig.waddles.option.adelie_min_group_size": "Taille minimale de groupe",
+  "text.autoconfig.waddles.option.adelie_max_group_size": "Taille maximale de groupe"
+}
