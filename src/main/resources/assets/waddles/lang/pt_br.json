@@ -1,19 +1,19 @@
 {
   "_comment": "Entity",
-  "entity.waddles.adelie_penguin": "Pinguim Adélie",
-  "item.waddles.adelie_penguin_spawn_egg": "Pinguim Adélie Spawn Egg",
+  "entity.waddles.adelie_penguin": "Pinguim-de-ad\u00E9lia",
+  "item.waddles.adelie_penguin_spawn_egg": "Ovo gerador de pinguim-de-ad\u00E9lia",
 
   "_comment": "Subtitles",
-  "waddles:subtitles.adelie.ambient": "Grasnido de Pinguins Adélie",
-  "waddles:subtitles.adelie.baby.ambient": "Grasnido de Filhotes de Pinguins Adélie",
-  "waddles:subtitles.adelie.death": "Puguim Adélie Morrendo",
-  "waddles:subtitles.adelie.hurt": "Pinguim Adélie se Machucando",
+  "waddles:subtitles.adelie.ambient": "Pinguim-de-ad\u00E9lia grasnando",
+  "waddles:subtitles.adelie.baby.ambient": "Filhote de pinguim-de-ad\u00E9lia grasnando",
+  "waddles:subtitles.adelie.death": "Pinguim-de-ad\u00E9lia morre",
+  "waddles:subtitles.adelie.hurt": "Pinguim-de-ad\u00E9lia ferido",
 
   "_comment": "Config",
   "text.autoconfig.waddles.title": "Waddles",
-  "text.autoconfig.waddles.option.drop_fish": "Drop fish when killed",
-  "text.autoconfig.waddles.option.drop_exp": "Drop experience when killed",
-  "text.autoconfig.waddles.option.adelie_spawn_weight": "Spawn weight",
-  "text.autoconfig.waddles.option.adelie_min_group_size": "Minimum group size",
-  "text.autoconfig.waddles.option.adelie_max_group_size": "Maximum group size"
+  "text.autoconfig.waddles.option.drop_fish": "Largar peixe quando morto",
+  "text.autoconfig.waddles.option.drop_exp": "Largar experi\u00eancia quando morto",
+  "text.autoconfig.waddles.option.adelie_spawn_weight": "Peso de gera\u00E7\u00E3o",
+  "text.autoconfig.waddles.option.adelie_min_group_size": "Tamanho de grupo m\u00EDnimo",
+  "text.autoconfig.waddles.option.adelie_max_group_size": "Tamanho de grupo m\u00E1ximo"
 }
